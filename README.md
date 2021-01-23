@@ -11,12 +11,11 @@
 | NVMe             | Corsair Force MP510                      |
 | SmBios           | IMac 20.1                                |
 | BootLoader       | OpenCore  0.6.6                          |
-
 ![infodp1](./Screenshot/1.jpg)
 
 https://www.msi.com/Motherboard/MAG-Z490-TOMAHAWK##
 
-Device Screenshot
+## DCPIManager Screenshot
 ![infodp1](./Screenshot/3.png)
 ![infodp2](./Screenshot/4.png)
 
@@ -46,7 +45,6 @@ Device Screenshot
 ![SSDT](./Screenshot/7.png)
 
 ## Credits
-
 - [Acidanthera](https://github.com/acidanthera) for OpenCore and all the lovely hackintosh work.
 - [Apple](https://apple.com) for macOS;
 - [daliansky](https://github.com/daliansky)
