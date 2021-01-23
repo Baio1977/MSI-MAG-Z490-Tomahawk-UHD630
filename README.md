@@ -36,17 +36,12 @@
 
 ## USB Map by Hackintool
 - Usb port mapping performed
-
 ![infobigsur](./Screenshot/5.png)
 - Disabled unused device
 - Cosmetics DSM in Configplist
-![PCI](./Screenshot/7.png)
 
 ## Info Section SSDT MSI MAG Z490 Tomahawk UHD630
-
-![SSDT](./Screenshot/7.jpg)
-
-https://www.msi.com/Motherboard/MAG-Z490-TOMAHAWK
+![SSDT](./Screenshot/7.png)
 
 ## Credits
 
