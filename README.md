@@ -1,16 +1,16 @@
 ### Computer Spec:
-| Component        | Brank                              |
-| ---------------- | ---------------------------------- |
-| Scheda Madre     | GA Z490M Gaming X (BIOS F6b)       | 
-| CPU              | Intel i5 10600                     | 
-| IGPU             | Intel® UHD Graphics 630            |
-| GPU              | Sapphire RX 590 Nitro+             |
-| Audio            | Realtek ALC1200A                   |
-| Ram              | 32 Gb DDR4 3200 Mhz                |
-| Wifi + Bluetooth | Fenvi FV - T919                    |
-| NVMe             | Samsung 970 Pro 512Gb              |
-| SmBios           | IMac 20.1                          |
-| BootLoader       | OpenCore                           |
+| Component        | Brank                                    |
+| ---------------- | ---------------------------------------- |
+| Scheda Madre     | MSI MAG Z490 Tomahawk                    | 
+| CPU              | Intel I7 10700                           | 
+| IGPU             | Intel® UHD Graphics 630                  |
+| GPU              | Asus Phoenix Geforce GTX 1660 (Disable)  |
+| Audio            | Realtek ALC1200A                         |
+| Ram              | 16 Gb DDR4 3200 Mhz                      |
+| Wifi + Bluetooth | Fenvi FV - T919                          |
+| NVMe             | Corsair Force MP510                      |
+| SmBios           | IMac 20.1                                |
+| BootLoader       | OpenCore  0.6.6                          |
 
 ## Device Screenshot
 ![infodp1](./Screenshot/3.png)
