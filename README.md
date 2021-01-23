@@ -11,6 +11,7 @@
 | NVMe             | Corsair Force MP510                      |
 | SmBios           | IMac 20.1                                |
 | BootLoader       | OpenCore  0.6.6                          |
+
 ![infodp1](./Screenshot/1.jpg)
 
 https://www.msi.com/Motherboard/MAG-Z490-TOMAHAWK##
