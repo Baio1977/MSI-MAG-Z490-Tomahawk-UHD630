@@ -12,6 +12,8 @@
 | SmBios           | IMac 20.1                                |
 | BootLoader       | OpenCore  0.6.6                          |
 
+![infodp1](./Screenshot/1.jpg)
+
 ## Device Screenshot
 ![infodp1](./Screenshot/3.png)
 ![infodp2](./Screenshot/4.png)
