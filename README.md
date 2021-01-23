@@ -28,6 +28,7 @@
 - [x] All USB Ports 
 - [x] Wi-Fi and Bluetooth
 - [x] Intel (11)I219-V LAN
+- [x] RTL8125 Ethernet
 - [x] NVRAM
 - [x] Windows boot from OpenCore
 
