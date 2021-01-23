@@ -7,7 +7,7 @@
 | GPU              | Asus Phoenix Geforce GTX 1660 (Disable)  |
 | Audio            | Realtek ALC1200A                         |
 | Ram              | 16 Gb DDR4 3200 Mhz                      |
-| Wifi + Bluetooth | Fenvi FV - T919                          |
+| Wifi + Bluetooth | MQUPIN AC1750 (BCM94360CD)               |
 | NVMe             | Corsair Force MP510                      |
 | SmBios           | IMac 20.1                                |
 | BootLoader       | OpenCore  0.6.6                          |
@@ -23,10 +23,10 @@
 
 ### What works and What doesn't or WIP:
 - [x] Intel UHD 630 iGPU
-- [x] ALC1200 Internal Speakers
-- [x] ALC1200 HDMI Audio Output
+- [x] ALC1200A Internal Speakers
+- [x] ALC1200A HDMI Audio Output
 - [x] All USB Ports 
-- [x] Wi-Fi and Bluetooth BCM94360CS2 Module
+- [x] Wi-Fi and Bluetooth
 - [x] Intel (11)I219-V LAN
 - [x] NVRAM
 - [x] Windows boot from OpenCore
