@@ -39,9 +39,9 @@
 - Cosmetics DSM in Configplist
 ![PCI](./Screenshot/7.png)
 
-## Info Section SSDT GA Z490M Gaming X
+## Info Section SSDT MSI MAG Z490 Tomahawk UHD630
 
-![SSDT](./Screenshot/6.png)
+![SSDT](./Screenshot/7.jpg)
 
 https://www.msi.com/Motherboard/MAG-Z490-TOMAHAWK
 
