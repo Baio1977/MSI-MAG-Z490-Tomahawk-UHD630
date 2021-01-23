@@ -6,7 +6,7 @@
 | IGPU             | Intel® UHD Graphics 630                  |
 | GPU              | Asus Phoenix Geforce GTX 1660 (Disable)  |
 | Audio            | Realtek ALC1200A                         |
-| Ram              | 16 Gb DDR4 3200 Mhz                      |
+| Ram              | 16 Gb DDR4 3000 Mhz                      |
 | Wifi + Bluetooth | MQUPIN AC1750 (BCM94360CD)               |
 | NVMe             | Corsair Force MP510                      |
 | SmBios           | IMac 20.1                                |
