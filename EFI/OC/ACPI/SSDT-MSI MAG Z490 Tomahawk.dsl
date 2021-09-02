@@ -5,13 +5,13 @@
  * 
  * Disassembling to symbolic ASL+ operators
  *
- * Disassembly of iASLAoHdSk.aml, Thu Sep  2 17:00:49 2021
+ * Disassembly of iASLY6XCYq.aml, Thu Sep  2 18:29:36 2021
  *
  * Original Table Header:
  *     Signature        "SSDT"
- *     Length           0x00000502 (1282)
+ *     Length           0x000004BA (1210)
  *     Revision         0x02
- *     Checksum         0x80
+ *     Checksum         0x94
  *     OEM ID           "HACK"
  *     OEM Table ID     "HackLife"
  *     OEM Revision     0x00000000 (0)
@@ -274,17 +274,6 @@ DefinitionBlock ("", "SSDT", 2, "HACK", "HackLife", 0x00000000)
                 }
             }
 
-            Scope (RP21)
-            {
-                OperationRegion (DE01, PCI_Config, 0x50, One)
-                Field (DE01, AnyAcc, NoLock, Preserve)
-                {
-                        ,   1, 
-                        ,   3, 
-                    DDDD,   1
-                }
-            }
-
             Device (SRAM)
             {
                 Name (_ADR, 0x00140002)  // _ADR: Address
@@ -394,14 +383,6 @@ DefinitionBlock ("", "SSDT", 2, "HACK", "HackLife", 0x00000000)
                     Return (Zero)
                 }
             }
-        }
-    }
-
-    Scope (\)
-    {
-        If (_OSI ("Darwin"))
-        {
-            \_SB.PCI0.RP21.DDDD = One
         }
     }
 }
