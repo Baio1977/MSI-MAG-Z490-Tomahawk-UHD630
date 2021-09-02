@@ -16,7 +16,7 @@
 | Wifi + Bluetooth | MQUPIN AC1750 (BCM94360CD)               |
 | NVMe             | Corsair Force MP510                      |
 | SmBios           | IMac 20.1                                |
-| BootLoader       | OpenCore  0.6.6                          |
+| BootLoader       | OpenCore  0.7.3                          |
 
 ![infodp1](./Screenshot/1.jpg)
 
