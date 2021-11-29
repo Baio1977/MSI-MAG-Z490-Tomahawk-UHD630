@@ -26,11 +26,6 @@ https://www.msi.com/Motherboard/MAG-Z490-TOMAHAWK##
 ![infodp1](./Screenshot/3.png)
 ![infodp2](./Screenshot/4.png)
 
-## Patch IGPU HDMI\DP Output
-![infodp2](./Screenshot/8.png)
-![infodp2](./Screenshot/9.png)
-![infodp2](./Screenshot/10.png)
-
 ### What works and What doesn't or WIP:
 - [x] Intel UHD 630 iGPU
 - [x] ALC1200A Internal Speakers
