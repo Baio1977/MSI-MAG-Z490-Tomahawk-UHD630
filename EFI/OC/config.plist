@@ -12,7 +12,7 @@
                     <key>Enabled</key>
                     <true/>
                     <key>Path</key>
-                    <string>SSDT-MSIMAGZ490Tomahawk.aml</string>
+                    <string>SSDT-MSI_MAG_Z490_Tomahawk.aml</string>
                 </dict>
             </array>
             <key>Delete</key>
