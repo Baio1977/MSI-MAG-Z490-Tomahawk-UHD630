@@ -5,20 +5,20 @@
  * 
  * Disassembling to symbolic ASL+ operators
  *
- * Disassembly of iASL8l48YM.aml, Tue Mar 15 17:25:38 2022
+ * Disassembly of iASLD3JBOX.aml, Tue Mar 15 23:30:53 2022
  *
  * Original Table Header:
  *     Signature        "SSDT"
- *     Length           0x000005A9 (1449)
+ *     Length           0x000005A0 (1440)
  *     Revision         0x02
- *     Checksum         0x38
- *     OEM ID           "HACK"
+ *     Checksum         0xF0
+ *     OEM ID           "Hack"
  *     OEM Table ID     "HackLife"
  *     OEM Revision     0x00000000 (0)
  *     Compiler ID      "INTL"
  *     Compiler Version 0x20200925 (538970405)
  */
-DefinitionBlock ("", "SSDT", 2, "HACK", "HackLife", 0x00000000)
+DefinitionBlock ("", "SSDT", 2, "Hack", "HackLife", 0x00000000)
 {
     External (_SB_.PCI0, DeviceObj)
     External (_SB_.PCI0.LPCB, DeviceObj)
@@ -390,7 +390,7 @@ DefinitionBlock ("", "SSDT", 2, "HACK", "HackLife", 0x00000000)
                 }
             }
 
-            If ((CondRefOf (\_OSI, Local0) && _OSI ("Darwin")))
+            If (_OSI ("Darwin"))
             {
                 Device (USBW)
                 {
