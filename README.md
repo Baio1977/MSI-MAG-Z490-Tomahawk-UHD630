@@ -45,6 +45,7 @@ https://www.msi.com/Motherboard/MAG-Z490-TOMAHAWK##
 
 ## Info Section SSDT MSI MAG Z490 Tomahawk UHD630
 ![SSDT](./Screenshot/7.png)
+![SSDT](./Screenshot/8.png)
 
 ## Credits
 - [Acidanthera](https://github.com/acidanthera) for OpenCore and all the lovely hackintosh work.
